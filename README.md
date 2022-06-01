@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ### Sobre mim
-Trabalho na função de suporte há um tempo e tenho o desejo de migrar para a área de programação. Aqui você irá encontrar alguns dos meus projetos e estudos.
-
+Profissional generalista, analítico e organizado com mais 20 anos de experiência na área de Recursos Humanos. Em 2020 resolvi migrar para área de TI trabalhando na empresa EDZA com as atribuições: análise de requisito, suporte ao usuário, testes e levantamento de manutenção corretiva e perfectiva nos Sistema Metropolis WEB no modulo de Recursos Humanos.
+Elaboração de implantação de melhorias evolutivas dos sistemas, elaboração de query´s para análise gerencial utilizando banco de dados PostgreSQL e dando os primeiros passos com programação na linguagem Java.
 <!--
 **leteston/leteston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
