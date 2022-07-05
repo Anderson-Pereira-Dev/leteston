@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 ### Sobre mim
-Profissional generalista, analítico e organizado com mais 20 anos de experiência na área de Recursos Humanos. Em 2020 resolvi migrar para área de TI, trabalhando na empresa EDZA com as seguintes atribuições: análise de requisito, suporte ao usuário, testes e levantamento de manutenção corretiva e perfectiva nos Sistema Metropolis WEB no modulo de Recursos Humanos.
-Elaboração de implantação de melhorias evolutivas dos sistemas, elaboração de query´s para análise gerencial utilizando banco de dados PostgreSQL e dando os primeiros passos com programação na linguagem Java.
+Profissional com mais 20 anos de experiência na área de Recursos Humanos e com formação em Gestão de RH, porém, sou graduando em Análise e Desenvolvimento de Sistemas e já sou um profissional da área de TI a 02 anos. Experiência como Analista (Sistema, Funcional, Suporte, Programador). Vivência nas áreas de Inovação, Tecnologia, trabalhando com gerenciamento de projetos, com análise e levantamento de requisitos, especificação, implementação, manutenção perfectivas, corretivas e preventivas, modelagem de banco de dados, regra de negócio, testes e homologação de sistema. Experiência em banco de dados PostgreSQL, com execução de scripts e criação de Views e funções. Realizando suporte ao usuário com nível de atendimento 1 e nível 2, e implementando o E-social no sistema Metrópolis para atender aos Órgãos Públicos.
+Nível de conhecimento básico na linguagem de programação Java para sistemas WEB.
+
 <!--
 **leteston/leteston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
